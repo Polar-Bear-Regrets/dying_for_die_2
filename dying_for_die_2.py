@@ -992,6 +992,7 @@ def gravity_pack():
     global two_trio_level
     global overflow_house_level
     global gravity_played
+    global die_added
     gravity_played += 5
     gravity_1 = random.randint(1,5)
     gravity_2 = random.randint(1, 5)
